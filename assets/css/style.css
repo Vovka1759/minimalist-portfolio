@@ -377,6 +377,7 @@ main {
   opacity: 0;
   visibility: hidden;
   transition: var(--transition-2);
+  margin-bottom: 15px;
 }
 
 .sidebar.active .sidebar-info_more {
@@ -500,7 +501,6 @@ main {
  * #service 
  */
 
-.service { margin-bottom: 35px; }
 
 .service-title { margin-bottom: 20px; }
 
